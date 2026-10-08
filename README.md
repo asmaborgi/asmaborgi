@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bonjour, je suis Asma Borgi 👋
 
-<!--
-**asmaborgi/asmaborgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingénieure en Génie Électrique (ENIM) et Consultante IT, je me spécialise dans le **développement d'applications** et le **traitement de données**. Je suis à la recherche d'une alternance en France.
 
-Here are some ideas to get you started:
+## 🔧 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Langages** : Python, C, C++, Deluge
+- **Données & BI** : pandas, SQL (SQLite), Excel avancé, Zoho Analytics, ManageEngine Analytics Plus
+- **Développement d'applications** : FastAPI, PySide2 (Qt), openpyxl
+- **Systèmes embarqués** : Linux embarqué (Yocto), Raspberry Pi 4, Arduino
+- **En cours d'apprentissage** : React, Docker
+
+## 📂 Projets
+
+| Projet | Description | Technologies |
+|---|---|---|
+| [quality-dashboard](https://github.com/asmaborgi/quality-dashboard) | Tableau de bord web de suivi qualité : FPY, taux de défauts, diagramme de Pareto (données fictives) | Python, FastAPI, pandas, SQLite, Chart.js |
+| Application d'analyse de tests ICT | Application de bureau : calcul du FPY, Pareto des défauts et export de rapports Excel, réalisée pour mon projet de fin d'études (dépôt privé, démonstration sur demande) | Python, PySide2, openpyxl |
+
+## 🌱 En ce moment
+
+Je construis un portfolio d'applications web et mobiles et je renforce mes compétences en développement full-stack.
+
+## 📫 Me contacter
+
+- Email : asmaborgi0@gmail.com
+- LinkedIn : [linkedin.com/in/borgi-asma](https://www.linkedin.com/in/borgi-asma)
